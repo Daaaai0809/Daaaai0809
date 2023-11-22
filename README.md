@@ -1,6 +1,5 @@
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daaaai0809&theme=2077)
 ![lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daaaai0809&theme=2077)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daaaai0809&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
